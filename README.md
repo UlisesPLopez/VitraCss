@@ -13,7 +13,7 @@ Todo esto en un solo archivo `.css` y `.js`. ¡Listo para usarse!
 - ✅ Animaciones suaves y realistas
 - ✅ Hover integrado (`with-hover`)
 - ✅ Ligero y fácil de implementar
-- ✅ Versión Dark en desarrollo (con JavaScript)
+- ✅ Versión Dark en desarrollo (con JavaScript) | Proximamente en version 2.0 o 1.5 :3
 
 ---
 
@@ -23,5 +23,5 @@ Todo esto en un solo archivo `.css` y `.js`. ¡Listo para usarse!
 Incluye los archivos directamente en tu HTML:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/UlisesPLopez/VitraCss/dist/VitraCss.min.css">
-<script src="https://cdn.jsdelivr.net/gh/UlisesPLopez/VitraCss/dist/VitraCss.min.js" defer></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/UlisesPLopez/VitraCss/VitraCss.min.css">
+<script src="https://cdn.jsdelivr.net/gh/UlisesPLopez/VitraCss/VitraCss.min.js" defer></script>
