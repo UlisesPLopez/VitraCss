@@ -1,32 +1,34 @@
 # 🔮 VitraCss
 
-**VitraCss** es un micro-framework visual basado en CSS que ofrece componentes visuales con efectos animados inspirados en los **elementos esenciales de la naturaleza**: Agua, Hielo, Niebla, Fuego y Cristal. 
+**VitraCss** is a lightweight visual micro-framework based on CSS, offering animated visual components inspired by the **essential elements of nature**: Water, Ice, Fog, Fire, and Glass.
 
-Todo esto en un solo archivo `.css` y `.js`. ¡Listo para usarse!
+All in a single `.css` and `.js` file — ready to use!
+
+---
+
+## ✨ Features
+
+- ✅ Visual effects inspired by natural elements
+- ✅ CSS & JS, no external dependencies
+- ✅ Smooth and realistic animations
+- ✅ Built-in hover effect (`with-hover`)
+- ✅ Option to use predefined panels (`<material>-Panel-#`)
+- ✅ Option to use custom shapes (`<material>-Cu-#`)
+- ✅ Lightweight and easy to implement
 
 ---
 
-## ✨ Características
+## 🚀 Quick Installation
 
-- ✅ Efectos visuales inspirados en elementos naturales
-- ✅ CSS y Js, sin dependencias externas
-- ✅ Animaciones suaves y realistas
-- ✅ Hover integrado (`with-hover`)
-- ✅ Opción de usar paneles predefinidos (` `replace with material that you will use`-Panel-#`)
-- ✅ Opción de usar formas personalizadas (` `replace with material that you will use`-Cu-#`)
-- ✅ Ligero y fácil de implementar
-
----
-## 🚀 Instalación rápida
-### Opción 1: NPM INSTALL
+### Option 1: NPM INSTALL
 
 ```bash
 
 npm i vitracss
 ```
 
-### Opción 2: CDN
-Incluye los archivos directamente en tu HTML:
+### Option 2: CDN
+Include the files directly in your HTML:
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/UlisesPLopez/VitraCss/dist/VitraCss.min.css">
