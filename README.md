@@ -13,7 +13,7 @@ All in a single `.css` and `.js` file — ready to use!
 - ✅ Smooth and realistic animations
 - ✅ Built-in hover effect (`with-hover`)
 - ✅ Option to use predefined panels (`<material>-Panel-#`)
-- ✅ Option to use custom shapes (`<material>-Cu-#`)
+- ✅ Option to use custom shapes (`<material>-Cu-#`) 
 - ✅ Lightweight and easy to implement
 
 ---
